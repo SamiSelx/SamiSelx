@@ -12,10 +12,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    「 I am passionate about web development, specializing in creating dynamic, user-friendly applications using JavaScript and frameworks such as React and Node.js. 」
+    「 <b>I am passionate about web development</b>, specializing in creating dynamic, user-friendly applications using JavaScript and frameworks such as React and Node.js. 」
     <br>
-   「 I am committed to continuous learning and enjoy contributing to open-source projects, ensuring I stay at the forefront of the industry. 」
+   「 I am committed to continuous learning and enjoy contributing to open-source projects,<b> ensuring I stay at the forefront of the industry</b>. 」
     <br>
   </samp>
 </p>
