@@ -10,9 +10,9 @@
 
 
 <p align="center"> 
- 
+ <p>
     「 **I am passionate about web development**, specializing in creating dynamic, user-friendly applications using JavaScript and frameworks such as React and Node.js. 」
- 
+ </p>
 </p>
 
  # About me
