@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Next js, and data Base**
 
-- 💬 Ask me about **Anything about World Wide Web**
+- 💬 Ask me **Anything about World Wide Web**
 
 - 📫 How to reach me **yassersellal14@gmail.com**
 <br/>
