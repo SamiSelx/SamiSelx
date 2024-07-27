@@ -18,7 +18,7 @@
 
  # About me
 
-- 🌱 I’m currently learning **Next js, and data Base**
+- 🌱 I’m currently learning **....**
 
 - 💬 Ask me **Anything about World Wide Web**
 
