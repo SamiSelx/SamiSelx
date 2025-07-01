@@ -12,9 +12,16 @@
 
 <p align="center"> 
  <p align="center">
-    「 I am passionate about web development, specializing in creating dynamic, user-friendly applications using JavaScript and frameworks such as React and Node.js. 」
+    「 I'm passionate about crafting software — whether it's building responsive web apps with React and Node.js or developing mobile applications using React Native. I love turning ideas into real, user-focused digital experiences. 」
  </p>
 </p>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/sami-sellal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
+<br />
 
  # About me
 
@@ -23,6 +30,7 @@
 - 💬 Ask me **Anything about World Wide Web**
 
 - 📫 How to reach me **yassersellal14@gmail.com**
+- 🔗 Connect on LinkedIn: [linkedin.com/in/sami-sellal](https://www.linkedin.com/in/sami-sellal/)
 <br/>
 <br/>
 <br/>
@@ -35,10 +43,13 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
+      ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%234ea94b.svg?style=for-the-badge&logo=springBoot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
         ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
         ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+        ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
         ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
         ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
         ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
