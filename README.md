@@ -12,7 +12,7 @@
 
 <p align="center"> 
  <p align="center">
-    「 I'm passionate about crafting software — whether it's building responsive web apps with React and Node.js or developing mobile applications using React Native. I love turning ideas into real, user-focused digital experiences. 」
+    「 I'm passionate about the Cybersecurity field and continuously learning how to design secure systems and craft secure software. Whether it's building responsive web applications with React and Node.js or developing mobile applications using React Native. I enjoy turning ideas into real, user-focused digital experiences while choosing and adapting technologies based on project needs and architectural requirements. 」
  </p>
 </p>
 
